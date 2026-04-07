@@ -1,5 +1,8 @@
 📊 Employee Data Analysis – Power BI Dashboard
 
+## 🌐 Live Demo
+[Click here to view the project](https://app.powerbi.com/view?r=eyJrIjoiNjE1YjAzMzYtZGY4MC00MDBjLTk4MTMtYTU4YzYxNjQ4MDlmIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D)
+
 A complete end-to-end data cleaning, transformation, and visualization project built using Microsoft Power BI. This dashboard helps analyze employee performance, department distribution, promotions, salary trends, and workforce insights.
 
 <img width="896" height="481" alt="image" src="https://github.com/user-attachments/assets/1812622b-3d7c-46be-b479-c13b0167463d" />
